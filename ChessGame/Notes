@@ -6,3 +6,12 @@ To-DO
 
 4). Implement UI
 5). Test UI
+
+
+
+02/09/24 Notes
+	-Switch to grid layout
+	-Build full screen of piece buttons to test/reuse code
+	
+	-Possibly reorganize images into folders first
+	(This way don't have to go back and add file path where image locations are referenced)
