@@ -15,3 +15,9 @@ To-DO
 	
 	-Possibly reorganize images into folders first
 	(This way don't have to go back and add file path where image locations are referenced)
+	
+02/12/24 Notes
+	-Switch to transparent icons that can be over-layed onto buttons with alternating colors
+	
+	-If stick with current button method, move the different repeated button actions to different
+	 functions
